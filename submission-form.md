@@ -27,14 +27,14 @@ Free-text fields (claim_description, inspector_note): they carried no signal in 
 The May auto-approve policy change coincides with fraud rising from about 1% to about 3%, concentrated in auto-approved claims from about 7 partners. Also a second, older pattern: high-value-ratio claims on franchises with repeat claimants.
 
 **8. What did you use AI for?**
-Claude (chat) for data analysis, code and drafts. Helpful: fast exploration, service scaffold. Discarded: gradient-boosting model and pre-May training. Cost: no paid API calls. Recording link: [ADD]
+Claude (chat) for data analysis, code and drafts. Helpful: fast exploration, service scaffold. Discarded: gradient-boosting model and pre-May training. Cost: no paid API calls. Recording link: [https://www.loom.com/share/62774171a13d4c9bba47c255f47d6c3e]
 
-**Drive link:** https://www.loom.com/share/62774171a13d4c9bba47c255f47d6c3e
+**Drive link:** https://drive.google.com/drive/folders/1eI347oGm5JKDxIVYKQqLOHgw1Ld-Sw_w?usp=sharing
 
 **9. Someone picks this up Monday and you are unreachable: three things.**
 1) Run `python train.py` then `python app.py` (README). 2) Retrain monthly and check the flagged partners still make sense. 3) The score ranks claims; it does not decide payment, and accuracy is not the metric.
 
-**10. Honest hours spent:** 
+**10. Honest hours spent:** 28
 
 **11. GitHub repo:** [https://github.com/harshupadhyay14/Kestrel-Code.git] (data and artifacts are git-ignored per policy s10)
 
