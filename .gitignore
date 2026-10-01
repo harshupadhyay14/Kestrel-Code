@@ -1,0 +1,4 @@
+data/
+artifacts/
+predictions.csv
+__pycache__/
