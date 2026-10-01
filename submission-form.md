@@ -29,13 +29,13 @@ The May auto-approve policy change coincides with fraud rising from about 1% to 
 **8. What did you use AI for?**
 Claude (chat) for data analysis, code and drafts. Helpful: fast exploration, service scaffold. Discarded: gradient-boosting model and pre-May training. Cost: no paid API calls. Recording link: [ADD]
 
-**Drive link:** [ADD]
+**Drive link:** https://www.loom.com/share/62774171a13d4c9bba47c255f47d6c3e
 
 **9. Someone picks this up Monday and you are unreachable: three things.**
 1) Run `python train.py` then `python app.py` (README). 2) Retrain monthly and check the flagged partners still make sense. 3) The score ranks claims; it does not decide payment, and accuracy is not the metric.
 
-**10. Honest hours spent:** 28
+**10. Honest hours spent:** 
 
-**11. GitHub repo:** [ADD] (data and artifacts are git-ignored per policy s10)
+**11. GitHub repo:** [https://github.com/harshupadhyay14/Kestrel-Code.git] (data and artifacts are git-ignored per policy s10)
 
 **12. Cost per prediction and per month:** Zero paid calls; local logistic regression. 750 claims x Rs 0 = Rs 0/month. Only hosting cost applies.
